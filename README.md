@@ -1,6 +1,6 @@
 - Hi, I’m @chusovich
-- I'm an automation engineer and hobbist who loves working on home automation and home lab projects
-- I’m current working on building a NAS server with NixOS
+- I'm an automation systems engineer by day ☀️ and home-labber by night 🌙
+- I’m current working on deploying smart home devices with ESPHome
 
 <!---
 chusovich/chusovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
