@@ -11,7 +11,7 @@ I'm an automation systems engineer by day and home-labber by night
 
 ## Home Automation
 - [esphome-reuse](https://github.com/chusovich/esphome-reuse) - common configs for my esphome devices
-- [ignition-maker-custom](https://github.com/chusovich/ignition-maker-custom] - custom ignition docker image for maker editon with mqtt modules
+- [ignition-maker-custom](https://github.com/chusovich/ignition-maker-custom) - custom ignition docker image for maker editon with mqtt modules
 
 ## PCBs 
 - [KiCad Libraries](https://github.com/chusovich/KiCad-Libraries) - KiCad reuse components
