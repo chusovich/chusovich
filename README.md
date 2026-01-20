@@ -4,7 +4,7 @@ I'm an automation systems engineer by day and home-labber by night
 ## NixOS Configs and Flakes
 - [nix-core](https://github.com/chusovich/nix-core) - Flake for common services used across all my NixOS servers
 - [argus](https://github.com/chusovich/argus) - Raspberry Pi 4 IP-camera using Nix 
-- [atlas](https://github.com/chusovich/argus) - Nix-based router with extras (Tailscale, Prometheus, Beszel)
+- [atlas](https://github.com/chusovich/atlas) - Nix-based router with extras (Tailscale, Prometheus, Beszel)
 - [mnemosyne](https://github.com/chusovich/mnemosyne) - media server (Immich, Jellyfin, Paperless)
 - [ajax](https://github.com/chusovich/ajax) - NixOS config for my personal laptop
 - [zeus](https://github.com/chusovich/zeus) - primary app server for my homelab
