@@ -6,8 +6,7 @@ I'm an automation systems engineer by day and home-labber by night
 - [argus](https://github.com/chusovich/argus) - Raspberry Pi 4 IP-camera using Nix 
 - [atlas](https://github.com/chusovich/atlas) - Raspberry Pi 4 nix server
 - [mnemosyne](https://github.com/chusovich/mnemosyne) - media server (Immich, Jellyfin, Paperless)
-- [ajax](https://github.com/chusovich/ajax) - NixOS config for my personal laptop
-- [zeus](https://github.com/chusovich/zeus) - primary app server for my homelab
+- [odysseus](https://github.com/chusovich/odysseus) - NixOS config for my personal laptop
 
 ## Home Automation
 - [esphome-reuse](https://github.com/chusovich/esphome-reuse) - common configs for my esphome devices
